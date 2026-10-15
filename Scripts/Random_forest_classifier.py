@@ -47,8 +47,8 @@ model = RandomForestClassifier(n_estimators=300,random_state=SEED)
 model.fit(X_train_balanced, y_train_balanced)
 
 # Save the trained model
-dump(model, "RF_model.pkl")
-dump(scaler, "Standard_scaler.pkl")
+#dump(model, "RF_model.pkl")
+#dump(scaler, "Standard_scaler.pkl")
 
 # Generate predictions for the test set
 y_pred = model.predict(X_test_scaled)

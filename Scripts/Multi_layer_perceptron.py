@@ -72,8 +72,8 @@ mlp = MLPClassifier(
 mlp.fit(X_train_balanced, y_train_balanced)
 
 # Save the trained model
-dump(mlp, "MLP_64-32-16_model.pkl")
-dump(scaler, "Standard_scaler.pkl")
+#dump(mlp, "MLP_64-32-16_model.pkl")
+#dump(scaler, "Standard_scaler.pkl")
 
 # Generate predictions for the test set
 y_pred = mlp.predict(X_test_scaled)
