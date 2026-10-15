@@ -65,21 +65,21 @@ The overall highest accuracy was achieved by the Random Forest classifier, which
 Achieved an accuracy of 66.67%, recall of 67.58%, specificity of 66.13%, precision of 53.95%, and an F1-score of 60.00%.
 
 <p align="center">
-  <img width="80%" alt="MLP (64-32-16) confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/MLP_64-32-16_confusion_matrix.png"/>
+  <img width="70%" alt="MLP (64-32-16) confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/MLP_64-32-16_confusion_matrix.png"/>
 </p>
 
 **MLP (256-128):**
 Achieved an accuracy of 66.67%, recall of 57.69%, specificity of 71.94%, precision of 54.69%, and an F1-score of 56.14%.
 
 <p align="center">
-  <img width="80%" alt="MLP (256-128) confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/MLP_256-128_confusion_matrix.png"/>
+  <img width="70%" alt="MLP (256-128) confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/MLP_256-128_confusion_matrix.png"/>
 </p>
 
 **Random Forest:**
 Achieved an accuracy of 69.51%, recall of 52.75%, specificity of 79.35%, precision of 60.00%, and an F1-score of 56.17%.
 
 <p align="center">
-  <img width="80%" alt="Random forest confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/RF_confusion_matrix.png"/>
+  <img width="70%" alt="Random forest confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/RF_confusion_matrix.png"/>
 </p>
 
 While the Random Forest model provided the highest overall precision and accuracy, the lighter MLP architecture (64-32-16) achieved a higher recall score, indicating better sensitivity toward detecting potable water samples.
