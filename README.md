@@ -36,6 +36,11 @@ The original dataset is imbalanced, containing a higher number of samples labele
 - **Class balancing:** To address the class imbalance in the training set, the Synthetic Minority Over-sampling Technique (SMOTE) was applied, balancing the classes to an equal number of samples.
 
 Class distibution before and after SMOTE:
+
+![Class distibution before SMOTE](Results/class_distribution_before_SMOTE.png){: height="350px" width="400px" style="float:left; padding-right:10px" }![Class distibution after SMOTE](Results/class_distribution_after_SMOTE.png){: height="350px" width="400px" style="float:left; padding-right:10px" }
+
+
+
 <p align="center">
 <img src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_before_SMOTE.png"  width="400" height="350"/><img  src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_after_SMOTE.png"  width="400" height="350"/>
 </p>
