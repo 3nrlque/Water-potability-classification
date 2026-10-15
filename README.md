@@ -37,12 +37,8 @@ The original dataset is imbalanced, containing a higher number of samples labele
 
 Class distibution before and after SMOTE:
 
-![Class distibution before SMOTE](Results/class_distribution_before_SMOTE.png){: height="350px" width="400px" style="float:left; padding-right:10px" }![Class distibution after SMOTE](Results/class_distribution_after_SMOTE.png){: height="350px" width="400px" style="float:left; padding-right:10px" }
-
-
-
 <p align="center">
-<img src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_before_SMOTE.png"  width="400" height="350"/><img  src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_after_SMOTE.png"  width="400" height="350"/>
+<img src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_before_SMOTE.png"  width="400" height="350" padding: 0px 5px 0px 0px/><img  src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_after_SMOTE.png"  width="400" height="350"/>
 </p>
 
 ### Model Configurations
