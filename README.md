@@ -41,6 +41,10 @@ Class distibution before and after SMOTE:
 <img src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_before_SMOTE.png"  width="400" height="350" padding: 0px 25px 0px 0px/><img  src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_after_SMOTE.png"  width="400" height="350"/>
 </p>
 
+<img width="49%" alt="Class distibution before SMOTE" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_before_SMOTE.png" />
+
+<img width="49%" alt="Class distibution after SMOTE" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/class_distribution_after_SMOTE.png" />
+
 ### Model Configurations
 
 - **MLP (64-32-16):** Fully connected feedforward network with hidden layers of sizes 64, 32, and 16, utilizing ReLU activation, Adam solver, early stopping, and a maximum of 500 iterations.
