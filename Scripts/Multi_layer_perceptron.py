@@ -41,7 +41,7 @@ sns.countplot(x=y_train, palette='viridis')
 plt.title('Class distribution before SMOTE')
 plt.xlabel('Potability')
 plt.ylabel('Number of samples')
-plt.xticks([0, 1], ['potable', 'non-potable'])
+plt.xticks([0, 1], ['non-potable', 'potable'])
 plt.show()
 
 # Fix class imbalance using SMOTE
@@ -55,7 +55,7 @@ sns.countplot(x=y_train_balanced, palette='viridis')
 plt.title('Class distribution after SMOTE')
 plt.xlabel('Potability')
 plt.ylabel('Number of samples')
-plt.xticks([0, 1], ['potable', 'non-potable'])
+plt.xticks([0, 1], ['non-potable', 'potable'])
 plt.show()
 
 # Multi-Layer Perceptron model
