@@ -18,6 +18,7 @@ The experiments use the [Water Quality and Potability](https://www.kaggle.com/da
 
 The original dataset is imbalanced, containing a higher number of samples labeled as non-potable (class 0) compared to potable water (class 1).
 
+| Dataset Parameter | Value |
 | --- | --- |
 | Total samples | 3276 |
 | Class 0 (Non-potable) | 1998 samples |
