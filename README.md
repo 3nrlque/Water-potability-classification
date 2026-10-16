@@ -69,7 +69,7 @@ Model performance is assessed using the following classification metrics:
 | F1-score | 60,00% | 56,14% | 56,17% |
 
 <p align="center">
-  <img width="35%" alt="MLP (64-32-16) confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/MLP_64-32-16_confusion_matrix.png"/> <img width="36%" alt="MLP (256-128) confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/MLP_256-128_confusion_matrix.png"/> <img width="36.5%" alt="Random forest confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/RF_confusion_matrix.png"/>
+  <img width="35%" alt="MLP (64-32-16) confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/MLP_64-32-16_confusion_matrix.png"/> <img width="36.2%" alt="MLP (256-128) confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/MLP_256-128_confusion_matrix.png"/> <img width="36.5%" alt="Random forest confusion matrix" src="https://github.com/3nrlque/Water-potability-classification/blob/main/Results/RF_confusion_matrix.png"/>
 </p>
 
 Based on the evaluation results, several key observations can be made regarding the performance of the models and the nature of the water quality dataset:
