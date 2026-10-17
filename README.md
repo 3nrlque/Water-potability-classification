@@ -30,7 +30,7 @@ The original dataset is imbalanced, containing a higher number of samples labele
 
 ### Data Preprocessing
 
-- **Missing values imputation:** Missing cells in columns were filled using the mean value of the remaining entries in that specific column.
+- **Handling Missing Data:** Missing cells in columns were filled using the mean value of the remaining entries in that specific column.
 - **Data splitting:** The dataset was split into training (70%), validation (15%), and test (15%) sets.
 - **Standardization:** Features were standarized using `StandardScaler` to have a mean of 0 and a standard deviation of 1.
 - **Class balancing:** To address the class imbalance in the training set, the Synthetic Minority Over-sampling Technique (SMOTE) was applied, balancing the classes to an equal number of samples.
